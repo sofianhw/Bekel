@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CF4D07A219AB4AC5001B102C /* combo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF4D07A119AB4AC5001B102C /* combo.mp3 */; };
+		CF604EF619C0135E008FE8FC /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF604EF519C0135E008FE8FC /* GameKit.framework */; };
+		CF72FB4419A3A91A0089E840 /* click.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF72FB4319A3A91A0089E840 /* click.mp3 */; };
+		CF72FB4619A3A9DF0089E840 /* pluck.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF72FB4519A3A9DF0089E840 /* pluck.mp3 */; };
+		CF72FB4819A3A9ED0089E840 /* swipe.wav in Resources */ = {isa = PBXBuildFile; fileRef = CF72FB4719A3A9ED0089E840 /* swipe.wav */; };
+		CF72FB4A19A3ABB60089E840 /* boom.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF72FB4919A3ABB60089E840 /* boom.mp3 */; };
+		CF72FB4C19A3ACA50089E840 /* boing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF72FB4B19A3ACA50089E840 /* boing.mp3 */; };
+		CF72FB4E19A3ADC50089E840 /* owow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF72FB4D19A3ADC50089E840 /* owow.mp3 */; };
+		CF72FB5119A3B0340089E840 /* gameover.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF72FB5019A3B0340089E840 /* gameover.mp3 */; };
+		CF72FB5319A43AE90089E840 /* clink.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF72FB5219A43AE90089E840 /* clink.mp3 */; };
+		CF72FB5519A59C000089E840 /* pop.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF72FB5419A59C000089E840 /* pop.mp3 */; };
+		CF72FB5719A59DE40089E840 /* goofy_loop.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF72FB5619A59DE40089E840 /* goofy_loop.mp3 */; };
+		CF72FB5919A5ACD50089E840 /* dufus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF72FB5819A5ACD50089E840 /* dufus.mp3 */; };
 		CF83EDFE199DD1EB008885E9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF83EDFD199DD1EB008885E9 /* AppDelegate.swift */; };
 		CF83EE00199DD1EB008885E9 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = CF83EDFF199DD1EB008885E9 /* GameScene.sks */; };
 		CF83EE02199DD1EB008885E9 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF83EE01199DD1EB008885E9 /* GameScene.swift */; };
@@ -14,6 +27,9 @@
 		CF83EE07199DD1EB008885E9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF83EE05199DD1EB008885E9 /* Main.storyboard */; };
 		CF83EE09199DD1EB008885E9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF83EE08199DD1EB008885E9 /* Images.xcassets */; };
 		CF83EE15199DD1EB008885E9 /* BekelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF83EE14199DD1EB008885E9 /* BekelTests.swift */; };
+		CFA6128319A74DEA000F7D63 /* levelup.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CFA6128219A74DEA000F7D63 /* levelup.mp3 */; };
+		CFE716051AC17CC500547A83 /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFE716041AC17CC500547A83 /* FacebookSDK.framework */; };
+		CFFF08BD19A6EFF4008A3EF7 /* match.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CFFF08BC19A6EFF4008A3EF7 /* match.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +43,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CF4D07A119AB4AC5001B102C /* combo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = combo.mp3; sourceTree = "<group>"; };
+		CF604EF519C0135E008FE8FC /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
+		CF72FB4319A3A91A0089E840 /* click.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = click.mp3; sourceTree = "<group>"; };
+		CF72FB4519A3A9DF0089E840 /* pluck.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pluck.mp3; sourceTree = "<group>"; };
+		CF72FB4719A3A9ED0089E840 /* swipe.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = swipe.wav; sourceTree = "<group>"; };
+		CF72FB4919A3ABB60089E840 /* boom.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = boom.mp3; sourceTree = "<group>"; };
+		CF72FB4B19A3ACA50089E840 /* boing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = boing.mp3; sourceTree = "<group>"; };
+		CF72FB4D19A3ADC50089E840 /* owow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = owow.mp3; sourceTree = "<group>"; };
+		CF72FB5019A3B0340089E840 /* gameover.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gameover.mp3; sourceTree = "<group>"; };
+		CF72FB5219A43AE90089E840 /* clink.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = clink.mp3; sourceTree = "<group>"; };
+		CF72FB5419A59C000089E840 /* pop.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pop.mp3; sourceTree = "<group>"; };
+		CF72FB5619A59DE40089E840 /* goofy_loop.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = goofy_loop.mp3; sourceTree = "<group>"; };
+		CF72FB5819A5ACD50089E840 /* dufus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dufus.mp3; sourceTree = "<group>"; };
 		CF83EDF8199DD1EB008885E9 /* Bekel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bekel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF83EDFC199DD1EB008885E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CF83EDFD199DD1EB008885E9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -38,6 +67,10 @@
 		CF83EE0E199DD1EB008885E9 /* BekelTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BekelTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF83EE13199DD1EB008885E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CF83EE14199DD1EB008885E9 /* BekelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BekelTests.swift; sourceTree = "<group>"; };
+		CFA6128219A74DEA000F7D63 /* levelup.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = levelup.mp3; sourceTree = "<group>"; };
+		CFE715FF1AC15E4300547A83 /* Facebook.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Facebook.h; path = ../Facebook.h; sourceTree = "<group>"; };
+		CFE716041AC17CC500547A83 /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FacebookSDK.framework; sourceTree = "<group>"; };
+		CFFF08BC19A6EFF4008A3EF7 /* match.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = match.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +78,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF604EF619C0135E008FE8FC /* GameKit.framework in Frameworks */,
+				CFE716051AC17CC500547A83 /* FacebookSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -58,9 +93,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CF72FB4219A3A8F40089E840 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				CF72FB4319A3A91A0089E840 /* click.mp3 */,
+				CF72FB4519A3A9DF0089E840 /* pluck.mp3 */,
+				CF4D07A119AB4AC5001B102C /* combo.mp3 */,
+				CF72FB4919A3ABB60089E840 /* boom.mp3 */,
+				CF72FB5419A59C000089E840 /* pop.mp3 */,
+				CF72FB4B19A3ACA50089E840 /* boing.mp3 */,
+				CF72FB4D19A3ADC50089E840 /* owow.mp3 */,
+				CF72FB5219A43AE90089E840 /* clink.mp3 */,
+				CF72FB4719A3A9ED0089E840 /* swipe.wav */,
+				CFFF08BC19A6EFF4008A3EF7 /* match.mp3 */,
+				CFA6128219A74DEA000F7D63 /* levelup.mp3 */,
+			);
+			name = Sounds;
+			sourceTree = "<group>";
+		};
+		CF72FB4F19A3B0140089E840 /* Music */ = {
+			isa = PBXGroup;
+			children = (
+				CF72FB5019A3B0340089E840 /* gameover.mp3 */,
+				CF72FB5819A5ACD50089E840 /* dufus.mp3 */,
+				CF72FB5619A59DE40089E840 /* goofy_loop.mp3 */,
+			);
+			name = Music;
+			sourceTree = "<group>";
+		};
 		CF83EDEF199DD1EB008885E9 = {
 			isa = PBXGroup;
 			children = (
+				CFE716041AC17CC500547A83 /* FacebookSDK.framework */,
+				CF604EF519C0135E008FE8FC /* GameKit.framework */,
 				CF83EDFA199DD1EB008885E9 /* Bekel */,
 				CF83EE11199DD1EB008885E9 /* BekelTests */,
 				CF83EDF9199DD1EB008885E9 /* Products */,
@@ -79,6 +144,8 @@
 		CF83EDFA199DD1EB008885E9 /* Bekel */ = {
 			isa = PBXGroup;
 			children = (
+				CF72FB4F19A3B0140089E840 /* Music */,
+				CF72FB4219A3A8F40089E840 /* Sounds */,
 				CF83EDFD199DD1EB008885E9 /* AppDelegate.swift */,
 				CF83EDFF199DD1EB008885E9 /* GameScene.sks */,
 				CF83EE01199DD1EB008885E9 /* GameScene.swift */,
@@ -86,6 +153,7 @@
 				CF83EE05199DD1EB008885E9 /* Main.storyboard */,
 				CF83EE08199DD1EB008885E9 /* Images.xcassets */,
 				CF83EDFB199DD1EB008885E9 /* Supporting Files */,
+				CFE715FF1AC15E4300547A83 /* Facebook.h */,
 			);
 			path = Bekel;
 			sourceTree = "<group>";
@@ -164,6 +232,12 @@
 				TargetAttributes = {
 					CF83EDF7199DD1EB008885E9 = {
 						CreatedOnToolsVersion = 6.0;
+						DevelopmentTeam = V7ZH6UDRR2;
+						SystemCapabilities = {
+							com.apple.GameCenter = {
+								enabled = 1;
+							};
+						};
 					};
 					CF83EE0D199DD1EB008885E9 = {
 						CreatedOnToolsVersion = 6.0;
@@ -195,9 +269,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF72FB5519A59C000089E840 /* pop.mp3 in Resources */,
+				CF72FB5719A59DE40089E840 /* goofy_loop.mp3 in Resources */,
+				CF72FB4619A3A9DF0089E840 /* pluck.mp3 in Resources */,
 				CF83EE09199DD1EB008885E9 /* Images.xcassets in Resources */,
+				CF72FB5319A43AE90089E840 /* clink.mp3 in Resources */,
+				CF72FB4E19A3ADC50089E840 /* owow.mp3 in Resources */,
+				CFA6128319A74DEA000F7D63 /* levelup.mp3 in Resources */,
+				CFFF08BD19A6EFF4008A3EF7 /* match.mp3 in Resources */,
+				CF72FB4419A3A91A0089E840 /* click.mp3 in Resources */,
+				CF72FB5119A3B0340089E840 /* gameover.mp3 in Resources */,
+				CF72FB4A19A3ABB60089E840 /* boom.mp3 in Resources */,
 				CF83EE00199DD1EB008885E9 /* GameScene.sks in Resources */,
 				CF83EE07199DD1EB008885E9 /* Main.storyboard in Resources */,
+				CF72FB4C19A3ACA50089E840 /* boing.mp3 in Resources */,
+				CF72FB5919A5ACD50089E840 /* dufus.mp3 in Resources */,
+				CF4D07A219AB4AC5001B102C /* combo.mp3 in Resources */,
+				CF72FB4819A3A9ED0089E840 /* swipe.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -333,9 +421,27 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/htbrata/Desktop/XCODE-FILES/Bekel",
+					ver,
+					1.1,
+					"/Users/htbrata/Desktop/XCODE-FILES/Bekel",
+					ver,
+					1.1,
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = Bekel/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = Facebook.h;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -344,9 +450,26 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/htbrata/Desktop/XCODE-FILES/Bekel",
+					ver,
+					1.1,
+					"/Users/htbrata/Desktop/XCODE-FILES/Bekel",
+					ver,
+					1.1,
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = Bekel/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = Facebook.h;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -403,6 +526,7 @@
 				CF83EE1A199DD1EB008885E9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF83EE1B199DD1EB008885E9 /* Build configuration list for PBXNativeTarget "BekelTests" */ = {
 			isa = XCConfigurationList;
@@ -411,6 +535,7 @@
 				CF83EE1D199DD1EB008885E9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
